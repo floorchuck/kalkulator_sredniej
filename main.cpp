@@ -10,7 +10,7 @@ int main()
 		cout << "Wpisz ocene (6 aby zakonczyc liczenie)" << endl;
 		cin >> grade;
 		if (grade == 6) break;
-		cout << "Wprowadx wage" << endl;
+		cout << "Wprowadz wage" << endl;
 		cin >> weight;
 		actual_grade = grade * weight;
 		grade_sum = grade_sum+actual_grade;
