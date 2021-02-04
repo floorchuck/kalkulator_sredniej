@@ -8,6 +8,7 @@ int main()
 	int weight=0, weight_sum=0;
 	while (grade != 6) {
 		cout << "Wpisz ocene (6 aby zakonczyc liczenie)" << endl;
+		cout << "TEST DLA GITA XD";
 		cin >> grade;
 		if (grade == 6) break;
 		cout << "Wprowadz wage" << endl;
